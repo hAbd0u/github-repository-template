@@ -1,8 +1,8 @@
 # Github repository template
 ------------
 
-This will a template for your future repository, many developers when they want to share thier project they don't know what to write on it.
-By using this template you can easly decide what to keep and what to remove, it is not necessary to keep all those sections.
+This will a template for your future repository, many developers when they want to share their project they don't know what to write on it.
+By using this template you can easily decide what to keep and what to remove, it is not necessary to keep all those sections.
 
 ## Available templates
 The following templates are available.
@@ -29,7 +29,7 @@ Set the packages that your project may need.
 - [GD extension](http://php.net/manual/en/book.image.php) (optional, used to add images)
 
 ## Installation		
-This section is generaly about how to install your software/ library
+This section is generally about how to install your software/ library
 
 ### With XXX		
 Sub section, your project may install via XXX
@@ -102,11 +102,24 @@ List the features you want to add, and mark any one done with **X**, or if you c
 - [x] Add support installation via composer.
 
 ## FAQ
+This section for frequently asked questions.
+
+**Fusce ac erat ullamcorper, sagittis diam at, consectetur dui?**
+Donec vel turpis ut quam condimentum venenatis ut id tellus.
+**Aenean ultrices nisi mattis ipsum auctor consectetur?**
+Vivamus at ligula ac tellus luctus pellentesque.
+**Nam finibus velit interdum ligula eleifend, eu malesuada risus porta?**
+Nulla elementum ante non ante ultrices, eu auctor justo tempus.
+**Cras feugiat nisl vel scelerisque aliquam?**
+Fusce sit amet sem sagittis, aliquam dui eu, dictum libero.
+**Vestibulum quis quam ac dolor venenatis maximus?**
+Integer ac elit ac odio porta vestibulum non vel lectus.
+
 
 ## Contributing
 
 We welcome everyone to contribute to **repository-template**. 
-You can do to contribute.
+You can do to contribute:
 
 - Read [our contributing guide](https://github.com/hAbd0u/repository-template/blob/master/CONTRIBUTING.md).
 - [Fork us](https://github.com/hAbd0u/repository-template/fork) and [request a pull](https://github.com/hAbd0u/repository-template/pulls).
