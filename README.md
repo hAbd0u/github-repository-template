@@ -123,8 +123,10 @@ You can do to contribute:
 
 - Read [our contributing guide](https://github.com/hAbd0u/repository-template/blob/master/CONTRIBUTING.md).
 - [Fork us](https://github.com/hAbd0u/repository-template/fork) and [request a pull](https://github.com/hAbd0u/repository-template/pulls).
-- Submit [bug reports, feature requests](https://github.com/hAbd0u/repository-template/issues).
-- Follow [@GithubRepositoryTemplates](https://twitter.com/PHPWord) on Twitter.
+- Follow [@GithubRepositoryTemplates](https://twitter.com/GithubRepositoryTemplates) on Twitter.
+
+## Issues
+Please report all issues [here](https://github.com/hAbd0u/repository-template/issues).
 
 ## License
 
