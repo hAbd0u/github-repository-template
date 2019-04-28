@@ -128,6 +128,10 @@ You can do to contribute:
 ## Issues
 Please report all issues [here](https://github.com/hAbd0u/repository-template/issues).
 
+## Authors and contributors
+- [BELADEL ILYES ABDELRAZAK](https://github.com/hAbd0u)
+- [Another Contributor](https://github.com/USER_NAME)
+
 ## License
 
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
