@@ -18,6 +18,22 @@ List all or at least the most important your project features
 - Vestibulum quis quam ac dolor venenatis maximus.
 - Integer ac elit ac odio porta vestibulum non vel lectus.
 
+## Browser support
+
+List all browsers that is supported with the minimal version.
+- Chrome (latest 2)
+- Edge (latest 2)
+- Firefox (latest 2)
+- Internet Explorer 11
+- Opera (latest 2)
+- Safari (latest 2)
+
+## Operating system support
+
+List all browsers that is supported with the minimal version.
+- Windows 7 ( Minimum )
+- Linux ( Kernel 3.2 Minimum )
+- macOS ( 10.9 Minimum )
 
 ## Requirements
 
