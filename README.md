@@ -104,10 +104,6 @@ Lorem Ipsum ligula ac tellus luctus
 
 Please check our Wiki to learn more about on our [wiki](https://github.com/hAbd0u/github-repository-template/wiki).
 
-## Credits
-You can credits people or any one here.
-Originally I inspired by this [library](https://github.com/hAbd0u/repository-template).
-
 ## TODO 
 List the features you want to add, and mark any one done with **X**, or if you cancel it with **strike**.
 - [x] Nulla elementum ante non ante ultrices, eu auctor justo tempus.
@@ -151,6 +147,10 @@ Please report all issues [here](https://github.com/hAbd0u/repository-template/is
 ## Authors and contributors
 - [BELADEL ILYES ABDELRAZAK](https://github.com/hAbd0u)
 - [Another Contributor](https://github.com/USER_NAME)
+
+## Credits
+You can credits people or any one here.
+Originally I inspired by this [library](https://github.com/hAbd0u/repository-template).
 
 ## License
 
