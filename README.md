@@ -100,6 +100,10 @@ Lorem Ipsum ligula ac tellus luctus
  var_dump( MyProject::MethodThree() ); // Outputs an array of supported languages
 ```
 
+## Wiki
+
+Please check our Wiki to learn more about on our [wiki](https://github.com/hAbd0u/github-repository-template/wiki).
+
 ## Credits
 You can credits people or any one here.
 Originally I inspired by this [library](https://github.com/hAbd0u/repository-template).
