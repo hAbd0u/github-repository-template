@@ -60,6 +60,9 @@ Sub section, your project may install via another XXX
  command to install';
 ```
 
+### Migration guides
+Set the instruction to migrate from previous version to the current.
+[Migrate from 1.0 to 2.0 guide](https://github.com/hAbd0u/github-repository-template/blob/master/documentation/migration-v1-v2.md).
 
 ## Usage
 In this section give one or two simple examples about how to use your project.
