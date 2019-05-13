@@ -131,6 +131,9 @@ Fusce sit amet sem sagittis, aliquam dui eu, dictum libero.
 **Vestibulum quis quam ac dolor venenatis maximus?**
 Integer ac elit ac odio porta vestibulum non vel lectus.
 
+## Issues
+Please report all issues [here](https://github.com/hAbd0u/repository-template/issues).
+
 
 ## Contributing
 
@@ -141,12 +144,16 @@ You can do to contribute:
 - [Fork us](https://github.com/hAbd0u/repository-template/fork) and [request a pull](https://github.com/hAbd0u/repository-template/pulls).
 - Follow [@GithubRepositoryTemplates](https://twitter.com/GithubRepositoryTemplates) on Twitter.
 
-## Issues
-Please report all issues [here](https://github.com/hAbd0u/repository-template/issues).
 
 ## Authors and contributors
 - [BELADEL ILYES ABDELRAZAK](https://github.com/hAbd0u)
 - [Another Contributor](https://github.com/USER_NAME)
+
+### Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/hAbd0u/github-repository-template/graphs/contributors"><img src="https://opencollective.com/inferno/contributors.svg?width=890" /></a>
+
 
 ## Credits
 You can credits people or any one here.
