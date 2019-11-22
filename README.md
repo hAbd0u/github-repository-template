@@ -138,6 +138,14 @@ List the features you want to add, and mark any one done with **X**, or if you c
 - [ ] ~~Vivamus at ligula ac tellus luctus pellentesque.~~
 - [x] Add support installation via composer.
 
+
+## Versioning
+
+For transparency into our release cycle and in striving to maintain backward compatibility, github-repository-template is maintained under the Semantic Versioning guidelines.
+
+See the Releases section of our project for changelogs for each release version.
+
+
 ## FAQ
 This section for frequently asked questions.
 
