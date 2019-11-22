@@ -147,6 +147,12 @@ You can do to contribute:
 - [Fork us](https://github.com/hAbd0u/repository-template/fork) and [request a pull](https://github.com/hAbd0u/repository-template/pulls).
 - Follow [@GithubRepositoryTemplates](https://twitter.com/GithubRepositoryTemplates) on Twitter.
 
+
+## Code of Conduct
+
+This project has adopted the [Open Source Code of Conduct](https://opensource.guide/code-of-conduct/). For more information see the [Code of Conduct FAQ](https://opensource.guide/code-of-conduct/faq/) or contact [opencode@opensource.guide](mailto:opencode@opensource.guide) with any additional questions or comments.
+
+
 ## Feedback
 
 * Ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/php)
