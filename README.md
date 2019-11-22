@@ -8,6 +8,13 @@ By using this template you can easily decide what to keep and what to remove, it
 The following templates are available.
  - README.md
 
+
+## Background
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu volutpat odio facilisis mauris sit amet massa vitae tortor. Leo integer malesuada nunc vel. 
+
+Duis varius pellentesque fringilla. Curabitur imperdiet varius tortor vitae congue. In rutrum sodales massa at pharetra. Sed vel nulla non nibh sodales ultricies. Pellentesque aliquet egestas ligula, ut eleifend tortor ultricies quis. Cras sed augue finibus, convallis quam quis, tempor nulla. Vestibulum ullamcorper elit nisl, sed eleifend ipsum pretium eget. Vestibulum sit amet ipsum luctus, bibendum eros a, congue justo. 
+
+
 ## Features
 
 List all or at least the most important your project features
