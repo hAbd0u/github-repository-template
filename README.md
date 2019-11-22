@@ -183,6 +183,14 @@ This project exists thanks to all the people who contribute. [[Contribute](CONTR
 You can credits people or any one here.
 Originally I inspired by this [library](https://github.com/hAbd0u/repository-template).
 
+
+## Acknowledgments
+
+The initial release of these guides were authored by **@hAbd0u, @hAbd0u, @hAbd0u,** and **@hAbd0u**.
+
+Thanks to **@hAbd0u, @hAbd0u, @hAbd0u, @hAbd0u, @hAbd0u,** and **@hAbd0u** for lending their valuable input and expertise leading up to the initial release, and to **@hAbd0u** and **@hAbd0u** for designing and illustrating the guides.
+
+
 ## License
 
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
