@@ -15,6 +15,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Duis varius pellentesque fringilla. Curabitur imperdiet varius tortor vitae congue. In rutrum sodales massa at pharetra. Sed vel nulla non nibh sodales ultricies. Pellentesque aliquet egestas ligula, ut eleifend tortor ultricies quis. Cras sed augue finibus, convallis quam quis, tempor nulla. Vestibulum ullamcorper elit nisl, sed eleifend ipsum pretium eget. Vestibulum sit amet ipsum luctus, bibendum eros a, congue justo. 
 
 
+## What is Github repository template?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut fermentum nibh eu tortor vehicula mattis. Phasellus ut leo at tellus fringilla finibus a vel lorem. Sed ante lacus, bibendum vitae metus vel, scelerisque cursus ex.
+
+
 ## Features
 
 List all or at least the most important your project features
