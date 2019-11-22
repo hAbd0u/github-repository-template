@@ -147,6 +147,14 @@ You can do to contribute:
 - [Fork us](https://github.com/hAbd0u/repository-template/fork) and [request a pull](https://github.com/hAbd0u/repository-template/pulls).
 - Follow [@GithubRepositoryTemplates](https://twitter.com/GithubRepositoryTemplates) on Twitter.
 
+## Feedback
+
+* Ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/php)
+* [Request a new feature](CONTRIBUTING.md)
+* Up vote [popular feature requests](https://github.com/hAbd0u/repository-template/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
+* [File an issue](https://github.com/hAbd0u/repository-template/issues)
+* Follow [@repository-template](https://twitter.com/repository-template) and let us know what you think!
+
 
 ## Authors and contributors
 - [BELADEL ILYES ABDELRAZAK](https://github.com/hAbd0u)
