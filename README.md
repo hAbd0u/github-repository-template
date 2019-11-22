@@ -191,6 +191,11 @@ The initial release of these guides were authored by **@hAbd0u, @hAbd0u, @hAbd0u
 Thanks to **@hAbd0u, @hAbd0u, @hAbd0u, @hAbd0u, @hAbd0u,** and **@hAbd0u** for lending their valuable input and expertise leading up to the initial release, and to **@hAbd0u** and **@hAbd0u** for designing and illustrating the guides.
 
 
+## Disclaimer
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, we're not lawyers. Be sure to read our [disclaimer](legal-disclaimer.md) before diving in.
+
+
 ## License
 
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
