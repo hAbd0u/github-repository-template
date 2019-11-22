@@ -191,6 +191,10 @@ The initial release of these guides were authored by **@hAbd0u, @hAbd0u, @hAbd0u
 Thanks to **@hAbd0u, @hAbd0u, @hAbd0u, @hAbd0u, @hAbd0u,** and **@hAbd0u** for lending their valuable input and expertise leading up to the initial release, and to **@hAbd0u** and **@hAbd0u** for designing and illustrating the guides.
 
 
+## Supporting this project
+Markdown Preview Enhanced is an open source project released under the [BSD Open Source License](https://github.com/hAbd0u/github-repository-template/blob/master/LICENSE). Its ongoing development is made possible thanks to the support by these awesome [backers](https://github.com/hAbd0u/github-repository-template/#/backers). You can help make this project better by [supporting us on Patreon](https://www.patreon.com/hAbd0u), [PayPal](https://github.com/hAbd0u/github-repository-template//#/paypal). Thank you!
+
+
 ## Disclaimer
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, we're not lawyers. Be sure to read our [disclaimer](legal-disclaimer.md) before diving in.
