@@ -94,6 +94,12 @@ In this section give one or two simple examples about how to use your project.
  echo $obj->addBar();
 ```
 
+
+## Documentation
+
+To check out the documentation, visit: https://github.com/hAbd0u/github-repository-template/documentation
+
+
 ### Methods
 This is most important section of your README.rd, consider it as documentaion of your project.
 Put a description for each function or method with a short example.
