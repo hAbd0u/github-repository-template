@@ -152,6 +152,12 @@ Fusce sit amet sem sagittis, aliquam dui eu, dictum libero.
 **Vestibulum quis quam ac dolor venenatis maximus?**
 Integer ac elit ac odio porta vestibulum non vel lectus.
 
+
+## Questions?
+
+Join [our Slack](https://slack.github-repository-template.com) or [email support](mailto:support@github-repository-template.com).
+
+
 ## Issues
 Please report all issues [here](https://github.com/hAbd0u/repository-template/issues).
 
